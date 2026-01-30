@@ -1,6 +1,4 @@
-[NP Render Pipeline Asset](#np-render-pipeline-asset)
-
-### NP Render Pipeline Asset {#np-render-pipeline-asset}
+### NP Render Pipeline Asset
 
 **Description**
 
