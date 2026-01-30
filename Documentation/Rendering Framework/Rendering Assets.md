@@ -27,4 +27,3 @@ NPRP’s Render pipeline asset. Must be set in the project's settings to take ef
 | Enable HDR | Boolean |  | Lets you use HDR textures for rendering. |
 | Default Shader | Shader |  | The shader that is used when a new material is created. |
 | Default Material | Material |  | The material used on newly created objects. |
-
