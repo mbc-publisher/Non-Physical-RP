@@ -1,10 +1,10 @@
-### NP Render Stack {#np-render-stack}
+<h1 align="center">NP Render Stack</h1>
 
-**Description**
+<h3 align="center">Description</h3>
 
-The render stack that gives you the most freedom and control over your rendering pipeline. Set up your render targets, whether or not they get a copy, when they get a copy, when shadows are casted, are you going with a deferred, forward, bit of both? Customise how your MRTs are set, used and much more.
+<div align="center">The render stack that gives you the most freedom and control over your rendering pipeline. Set up your render targets, whether or not they get a copy, when they get a copy, when shadows are casted, are you going with a deferred, forward, bit of both? Customise how your MRTs are set, used and much more.</div>
 
-**Parameters**
+<h3 align="center">Parameters</h3>
 
 | Name | Type | Choices | Description |
 | :---- | :---- | :---- | :---- |
