@@ -6,7 +6,11 @@
 
 <h3 align="center">Parameters</h3>
 
+<div align="center">
+  
 | Name | Type | Choices | Description |
 | :---- | :---- | ----- | :---- |
 | Color RTs | Array / List | Any Non-Depth Render Target | The Non-Depth Render Target(s) that will get cleared. |
 | Depth RTs | Array / List | Any Depth Render Target | The Depth Render Target(s) that will get cleared. |
+
+</div>
