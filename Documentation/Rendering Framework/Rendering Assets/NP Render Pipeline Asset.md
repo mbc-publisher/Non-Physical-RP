@@ -1,11 +1,11 @@
-<h3 align="center">NP Render Pipeline Asset</h3>
+<h1 align="center">NP Render Pipeline Asset</h1>
 
 <h3 align="center">Description</h3>
-<h3 align="center">NPRP’s Render pipeline asset. Must be set in the project's settings to take effect,
+<div align="center">NPRP’s Render pipeline asset. Must be set in the project's settings to take effect,
 as any Unity Render Pipeline Asset.
-</h3>
+</div>
 
-**Parameters**
+<h3 align="center">Parameters</h3>
 
 | Name | Type | Choices | Description |
 | :---- | :---- | ----- | :---- |
