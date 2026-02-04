@@ -11,8 +11,8 @@ as any Unity Render Pipeline Asset.
 | :---- | :---- | ----- | :---- |
 | Render Scale | Float | Range 0.1 \- 2 | The ratio of the rendering size vs the actual resolution. (1 is the same size, 2 is twice and 0.1 is 1/10). |
 | Bicubic Rescaling | Enum | • Off<br> • Up Only<br> • Up And Down<br> | Whether the bicubic filtering is used at all, only when scaling back up or when scaling un and down. |
-| Type (Anti Aliasing) | Enum | None FXAA | The Type of Antialiasing. None or FXAA (only option for now) |
-| Quality  (Anti Aliasing) | Enum | Low Medium High | The quality of the anti aliasing. |
+| Type (Anti Aliasing) | Enum | • None<br> • FXAA<br> | The Type of Antialiasing. None or FXAA (only option for now) |
+| Quality  (Anti Aliasing) | Enum | • Low<br> • Medium<br> • High<br> | The quality of the anti aliasing. |
 | Fixed Threshold (Anti Aliasing) | Float | Range 0.0312 \- 0.0833 | Sets a baseline brightness difference needed for FXAA to consider something an edge. |
 | Relative Threshold (Anti Aliasing) | Float | Range 0.063 \- 0.333 | Defines how big the local contrast must be, relative to surrounding brightness, before FXAA treats it as an edge. |
 | Subpixel Blending (Anti Aliasing) | Float | Range 0 \- 1 | Controls how strongly FXAA applies its sub-pixel anti-aliasing pass, which smooths shimmering and fine detail aliasing. |
