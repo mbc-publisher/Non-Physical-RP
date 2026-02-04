@@ -1,10 +1,10 @@
 <h1 align="center">NPRP Render Target</h1>
 
-<h3 align="center">**Description**</h3>
+<h3 align="center">Description</h3>
 
 <div align="center">Render texture wrapper. Describes a render target that can be shared across the render passes. 2 render targets (main color and main depth) are mandatory and can’t be deleted. These 2 stay active until the end of the frame. Any other user defined render targets will be cleared and discarded as soon as the last render pass using them is over. If you need to delay the discarding of a render target to use it in a pass where it's not specifically assigned ( Screen Material pass for exemple), you can do so using a clear pass after.</div>
 
-<h3 align="center">**Parameters**</h3>
+<h3 align="center">Parameters</h3>
 
 | Name | Type | Choices | Description |
 | :---- | :---- | :---- | :---- |
