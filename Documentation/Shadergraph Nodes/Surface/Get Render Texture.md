@@ -21,6 +21,6 @@
 
 | Name | Type | Choices | Description |
 | :---- | :---- | :---- | :---- |
-| Render Texture | Enum | Tex\_Color Tex\_Albedo Tex\_Normal Tex\_Depth Tex\_DepthNormal Tex\_Specular Tex\_Emissive Tex\_LineData1 Tex\_LineData2 Tex\_00 Tex\_01 Tex\_02 Tex\_03 Tex\_04 Tex\_05 Tex\_06 Tex\_07 | Each entry corresponds to a possible NPRP render texture. |
+| Render Texture | Enum | •Tex\_Color<br> •Tex\_Albedo<br> •Tex\_Normal<br> •Tex\_Depth<br> •Tex\_DepthNormal<br> •Tex\_Specular<br> •Tex\_Emissive<br> •Tex\_LineData1<br> •Tex\_LineData2<br> •Tex\_00<br> •Tex\_01<br> •Tex\_02<br> •Tex\_03<br> •Tex\_04<br> •Tex\_05<br> •Tex\_06<br> •Tex\_07<br> | Each entry corresponds to a possible NPRP render texture. |
 
 </div>
