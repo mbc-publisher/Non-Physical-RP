@@ -29,7 +29,7 @@
 
 | Name | Type | Choices | Description |
 | :---- | :---- | :---- | :---- |
-| Interpolation | Enum | Simple Radial | Changes how the light fades on the surface. **Simple:** the dot product,  **Radial:** distributed evenly on the normals curvature. Simple:                Radial: ![][image1]![][image2]![][image3]![][image4] |
+| Interpolation | Enum | Simple Radial | Changes how the light fades on the surface. **Simple:** the dot product,  **Radial:** distributed evenly on the normals curvature. Simple:                Radial: <img width="128" height="128" alt="image7" src="https://github.com/user-attachments/assets/5d6905cb-302b-415b-87a5-2feb3ac92d12" /><img width="128" height="128" alt="image4" src="https://github.com/user-attachments/assets/f62512a1-9a44-4f0a-b7ae-60ee3d2b49c0" /><img width="128" height="128" alt="image1" src="https://github.com/user-attachments/assets/2229ba56-8f65-4fa9-94cd-442a9bfb56bb" /><img width="128" height="128" alt="image9" src="https://github.com/user-attachments/assets/ba0e4e15-b497-4989-aefb-a15809b7a0f8" />|
 | Range Attenuation | Enum | Physical Linear | How the light fades in the distance for [Other lights](#bookmark=id.83ssxkab8n2e). |
 | Light Sampling | Enum | None Gradient Texture 2D | How the light fade value is used. **None:** as is (0-1 value). 
 **Gradient:** uses it to sample a given gradient. **Texture 2D:** uses it to sample horizontally a given texture. |
