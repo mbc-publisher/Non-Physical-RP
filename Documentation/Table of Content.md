@@ -1,3 +1,3 @@
 ## Render Passes
 ## Geometry Rendering
-- [Geometry](Geometry.md)
+- [Geometry](Documentation/Render Passes/Geometry Rendering/Geometry.md)
