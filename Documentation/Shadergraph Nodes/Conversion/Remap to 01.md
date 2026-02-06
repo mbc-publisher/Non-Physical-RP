@@ -11,9 +11,8 @@ The difference is barely noticeable.</div>
 
 | Name | Direction | Type | Binding | Description |
 | :---- | :---- | :---- | :---- | :---- |
-| XYZ | **Input** | Vector 3 | None | The XYZ channels.(or RGB). |
-| W | **Input** | Float | None | The W channel. (or A). |
-| Out | **Output** | Vector 4 | None | The resulting Vector4. |
+| In | **Input** | float | None | A value ranged between -1 to 1 or 0 to 100. |
+| Out | **Output** | float | None | The value remaped to a 0 to 1 range. |
 
 </div>
 
