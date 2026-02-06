@@ -2,7 +2,7 @@
 
 <h3 align="center">Description</h3>
 
-<div align="center">Remap either -1 to 1 or 0 to 100 values to 0 to 1\. The only difference with Unity’s Remap node is that it’s a little bit less expensive as it requires no divisions.  
+<div align="center">Remap either -1 to 1 or 0 to 100 values to 0 to 1. The only difference with Unity’s Remap node is that it’s a little bit less expensive as it requires no divisions.  
 The difference is barely noticeable.</div>
 
 <h3 align="center">Ports</h3>
