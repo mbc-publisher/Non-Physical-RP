@@ -29,3 +29,11 @@
   - [Unpacking](Shadergraph%20Nodes/Conversion/Unpacking.md)<br>
   - [XYZW XYZ_W](Shadergraph%20Nodes/Conversion/XYZW%20XYZ_W.md)<br>
   - [XYZ_W XYZW](Shadergraph%20Nodes/Conversion/XYZ_W%20XYZW.md)<br>
+- [Math](Shadergraph%20Nodes/Math)<br>
+  - [Luminance](Shadergraph%20Nodes/Math/Luminance.md)<br>
+- [Surface](Shadergraph%20Nodes/Surface)<br>
+  - [Clip Position](Shadergraph%20Nodes/Surface/Clip%20Position.md)<br>
+  - [Get Global Illumination](Shadergraph%20Nodes/Surface/Get%20Global%20Illumination.md)<br>
+  - [Get Lighting](Shadergraph%20Nodes/Surface/Get%20Lighting.md)<br>
+  - [Get Reflection](Shadergraph%20Nodes/Surface/Get%20Reflection.md)<br>
+  - [Get Render Texture](Shadergraph%20Nodes/Surface/Get%20Render%20Texture.md)<br>
