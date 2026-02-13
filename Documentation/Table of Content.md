@@ -15,8 +15,8 @@
 [Rendering Framework](Rendering%20Framework)<br>
 - [Rendering Assets](Rendering%20Framework/Rendering%20Assets)<br>
   - [MRT Set](Rendering%20Framework/Rendering%20Assets/MRT%20Set.md)<br>
-  - [NP Render Pipeline Asset](Rendering%20Framework/Rendering%20Assets/NP%20Render%20Pipeline%20Asset.md)<br>
-  - [NP Render Stack](Rendering%20Framework/Rendering%20Assets/NP%20Render%20Stack.md)<br>
+  - [NP Render Pipeline Asset](Rendering%20Framework/Rendering%20Assets/NPRP%20Render%20Pipeline%20Asset.md)<br>
+  - [NP Render Stack](Rendering%20Framework/Rendering%20Assets/NPRP%20Render%20Stack.md)<br>
   - [NPRP Render Target](Rendering%20Framework/Rendering%20Assets/NPRP%20Render%20Target.md)<br>
 
 [Shadergraph Nodes](Shadergraph%20Nodes)<br>
