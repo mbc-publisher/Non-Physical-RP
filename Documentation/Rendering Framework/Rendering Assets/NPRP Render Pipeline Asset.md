@@ -1,4 +1,4 @@
-<h1 align="center">NP Render Pipeline Asset</h1>
+<h1 align="center">NPRP Render Pipeline Asset</h1>
 
 <h3 align="center">Description</h3>
 <div align="center">NPRP’s Render pipeline asset. Must be set in the project's settings to take effect,
