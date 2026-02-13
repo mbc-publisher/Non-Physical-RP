@@ -1,4 +1,4 @@
-<h1 align="center">NP Render Stack</h1>
+<h1 align="center">NPRP Render Stack</h1>
 
 <h3 align="center">Description</h3>
 
